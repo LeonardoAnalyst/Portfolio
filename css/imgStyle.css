@@ -1,16 +1,19 @@
-.img-node{
-    width: 160px;
-}
-.img-vue{
-    width: 180px;
-}
 .img-net{
-    width: 170px;
-    border-radius: 30px;
+    width: 60px;
+    border-radius: 4px;
+}
+.img-tech{
+    width: 60px;
+    border-radius: 30px;    
 }
 .img-about{   
     margin-bottom: 80px;
 }
 .img-about h4{
     font-size: 35px;
+}
+.card-deck .card{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
 }
